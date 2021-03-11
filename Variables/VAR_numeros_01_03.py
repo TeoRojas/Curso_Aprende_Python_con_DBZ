@@ -1,0 +1,6 @@
+print("Operación 25**(1/2):")
+print(25**(1/2))
+print("---------------")
+print("Operación 25**0.5:")
+print(25**0.5)
+print("---------------")
